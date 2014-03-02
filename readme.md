@@ -1,6 +1,7 @@
 # k-Nearest Neighbors
 Benjamin Radford 
 Duke University
+
 ---------
 
 Documentation for this code is found at: [http://www.benradford.com/simple-machine-learning-and-examples](http://www.benradford.com/simple-machine-learning-and-examples).  This includes and explanation of k-NN algorithm and descriptions of the examples included in __demos.R__ file.
