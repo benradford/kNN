@@ -1,6 +1,6 @@
 # k-Nearest Neighbors
-Benjamin Radford 
-Duke University
+Benjamin Radford  
+Duke University  
 
 ---------
 
