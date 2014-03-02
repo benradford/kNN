@@ -8,7 +8,7 @@
 
 # Source the k-Nearest Neighbors functions
 source("kNN.R")
-
+stop("Do not source this file.  It will take a long time to run.")
 
 ##################
 # Colors Example #
