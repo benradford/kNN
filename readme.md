@@ -1,7 +1,6 @@
 # k-Nearest Neighbors
-
-### Benjamin Radford
-### Duke University
+Benjamin Radford 
+Duke University
 ---------
 
 Documentation for this code is found at: [http://www.benradford.com/simple-machine-learning-and-examples](http://www.benradford.com/simple-machine-learning-and-examples).  This includes and explanation of k-NN algorithm and descriptions of the examples included in __demos.R__ file.
@@ -25,5 +24,5 @@ kNN(train, test, trainlabels, k=1, trainsample=NULL, l=2)
 ## Example usage:
 
 ```r
-kNN(trainindata, testdata, traininglabels, k=1, trainsample=NULL, l=2)
+kNN(trainingdata, testdata, traininglabels, k=1, trainsample=NULL, l=2)
 ```

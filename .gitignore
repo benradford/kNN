@@ -16,7 +16,7 @@ local.properties
 .settings/
 .loadpath
 .Rhistory
-.png
+*.png
 
 # External tool builders
 .externalToolBuilders/
