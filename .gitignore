@@ -1,3 +1,5 @@
+*.png
+
 #################
 ## Eclipse
 #################
@@ -16,7 +18,7 @@ local.properties
 .settings/
 .loadpath
 .Rhistory
-*.png
+
 
 # External tool builders
 .externalToolBuilders/
